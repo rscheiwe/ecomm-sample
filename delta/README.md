@@ -1,9 +1,4 @@
-# Genesis Homes - Feature Detection API
-
-This API works in conjunction with the HomeBird API. 
-
-Please review scope [here](https://github.com/rscheiwe/api-development/blob/main/README.md)
-
+# EComm Feature API
 
 ### Run locally without Celery:
 
